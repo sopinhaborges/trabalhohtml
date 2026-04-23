@@ -1,0 +1,28 @@
+h1{
+    color: lightblue; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h2{
+    color: cornflowerblue;
+}
+p{
+    font-size: larger;
+}
+tr{
+    font-size: larger;
+}
+p{
+    font-size: larger;font-style:initial;
+}
+
+li{
+    font-size: medium;
+}
+th{
+    font-size: large;
+
+}
+table{
+    border-color:cornflowerblue;
+    
+}
